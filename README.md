@@ -7,3 +7,6 @@ It's just my take at implementing the Chain of Responsibility Pattern in typescr
 
 ## Why?
 Because I like the simplistic, reusability of this implementation, versus implementations that require you to set the next handler instance on the previous handler instance, [Such as this](https://refactoring.guru/design-patterns/chain-of-responsibility/typescript/example), and I couldn't find a good example googling around.
+
+## How do I use it?
+Everything of importance is in the index.ts. Just apply the general design concept to whatever it is you're trying to do with the Chain of Responsibility Pattern. I dunno man...
